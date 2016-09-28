@@ -1,0 +1,494 @@
+
+@import 'https://fonts.googleapis.com/css?family=Courgette';
+
+body{
+   
+    background: rgb(17, 60, 119);
+    color: d
+}
+.navbarops {
+    
+}
+
+.navbarpic {
+    height: 40px;
+    width: 60px;
+    margin-top: -4px;
+}
+
+.paragraf1 {
+    
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 26px;
+    font-size: 26px;
+    font-style: oblique;
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+    height: 170px;
+}
+
+
+.container2 {
+    width: 960px;
+    margin: 0 auto;
+    height: 240px;
+}
+
+.youtubevideo1 {
+    width: 36.2%;
+    height: 240px;
+    margin-top: 10px;
+    
+}
+
+
+
+.youtubevideo2 {
+    width: 36.2%;
+    height: 240px;
+    margin-top: 10px;
+    
+}
+
+.midvidpic {
+    margin-bottom: 220px;
+}
+
+.ssilka {
+    font-family: 'Courgette', cursive;
+    color: snow;
+    text-decoration: underline;
+}
+.ssilka:hover {
+    color: rgb(9, 115, 206);
+}
+
+
+
+
+
+.container3 {
+    width: 960px;
+    margin: 0  auto;
+}
+
+.mapimg {
+    float:left;
+    width: 50%;
+    margin-top: 10px;
+}
+
+.paragraf2 {
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 25px;
+    font-size: 25px;
+    font-style: oblique;
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+    float: right;
+    height: 175px;
+}
+blockquote {
+    width: 50%;
+    background: rgba(48, 108, 219, 0.85);
+    border-left: 0.5px solid #bbb;
+    font-family: "Lobster", oblique;
+    padding: 0.5em 5px;
+    font-size: 19px;
+    margin-top: -1px;
+    text-align: center;
+    float: right;
+    
+    
+    
+}
+ 
+blockquote:before {
+    color: rgb(32, 25, 62);
+    content: "\201C"; 
+    font-size: 2em;
+    line-height: 0.1em;
+    margin-right: 0.2em;
+    vertical-align: -.4em;
+    
+}
+ 
+blockquote:after {
+    color: rgb(32, 25, 62);
+    content: "\201D"; 
+    font-size: 2em;
+    line-height: 0.1em;
+    vertical-align: -.4em;
+}
+ 
+blockquote > p:first-child {
+    display: inline;
+}
+.citata {
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 19px;
+    font-size: 20px;
+}
+
+.ssilkaGamezone {
+    color: #0919de;
+}
+
+.container4 {
+      width: 960px;
+    margin: 0  auto;
+    
+}
+
+
+
+
+
+.container5 {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.synclogo {
+    width: 16%;
+  
+    margin:10px 10px 2px 0px;
+}
+
+.paragraf3 {
+    float: right;
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 22px;
+    font-size: 22px;
+    font-style: oblique;
+    margin-top: 10px;
+    
+}
+
+
+#playerooster {
+    width: 80%;
+}
+
+.omg {
+    float: right;
+  
+    margin-top: -30px;
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 20px;
+    font-size: 20px;
+    font-style:oblique;
+    border-spacing: 10px; 
+    border-collapse: separate;
+    width: 78%;
+}
+
+.img {
+    width: 150px;
+    margin-top: -3px;
+}
+td {
+   text-align:center;
+    padding: 0px;
+   
+    
+    
+}
+th {
+    padding: 0px;
+    text-align: center;
+}
+
+.img2 {
+       width: 80px;
+    margin-top: -3px;
+}
+
+.rostername {
+    margin-top: 10px;
+    color: snow;
+    font-weight: bolder;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 20px;
+    font-size: 20px;
+    font-style:oblique;
+    margin-bottom: 0px;
+}
+
+
+    
+    
+}
+
+
+
+
+
+.container6 {
+     width: 960px;
+    margin: 0 auto;
+    height: 240px;
+}
+
+.paragraf4 {
+   
+    
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 26px;
+    font-size: 26px;
+    font-style: oblique;
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+    height: 50px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px)  {
+    .page, .container2, .paragraf4, .youtubevideo1, .midvidpic, .youtubevideo2, .paragraf1, .container3, .container4, .container5, .omg, .vid, .img {
+        width:100%;
+        box-sizing: border-box;
+        margin: 0 auto;
+       
+       
+    }
+        
+  
+    .paragraf4{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 18px;
+    font-size: 18px;
+    font-style: oblique;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    height: 100%;
+  
+}
+    .paragraf1{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 18px;
+    font-size: 18px;
+    font-style: oblique;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    height: 100%;
+    
+}
+    .youtubevideo2{
+        margin-top: 0%;
+        height: 100%;
+      
+    }
+    .paragraf1{
+        margin-top: 0%;
+        width: 100%;
+    }
+    .youtubevideo1{
+        margin-top: 0%;
+        height: 100%;
+       
+    }
+    .paragraf2{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 21px;
+    font-size: 21px;
+    font-style: oblique;
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+    float: right;
+    height: 175px;
+    }
+    .citata{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 18px;
+    font-size: 18px; 
+    }
+    .img{
+        height: 50%;
+    }
+    }
+@media screen and (min-width: 481px) and (max-width: 768px)  {
+    .page, .container2, .paragraf4, .youtubevideo1, .midvidpic, .youtubevideo2, .paragraf1,.container3, .container4,.container5, .omg, .vid, .img{
+        width:100%;
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+     .paragraf4{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 20px;
+    font-size: 20px;
+    font-style: oblique;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    height: 100%;
+  
+}
+    .paragraf1{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 20px;
+    font-size: 20px;
+    font-style: oblique;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    height: 100%;
+    
+}
+    .youtubevideo2{
+        margin-top: 0%;
+        height: 100%;
+      
+    }
+    .paragraf1{
+        margin-top: 0%;
+        width: 100%;
+    }
+    .youtubevideo1{
+        margin-top: 0%;
+        height: 100%;
+       
+    }
+     .citata{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 20px;
+    font-size: 20px; 
+    
+   
+    }
+    .paragraf2{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 18px;
+    font-size: 18px;
+    font-style: oblique;
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+    float: right;
+   
+}
+    }
+}
+@media screen and (min-width: 769px) and (max-width: 976px)  {
+    .page, .container2, .paragraf4, .youtubevideo1, .midvidpic, .youtubevideo2, .paragraf1, .container3, .container4, .paragraf2,.container5, .omg, .vid, .img{
+        width:100%;
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+    .paragraf4{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 25px;
+    font-size: 25px;
+    font-style: oblique;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    height: 100%;
+  
+}
+    .paragraf1{
+    color: snow;
+    font-weight: lighter;
+    font-family: 'Courgette', cursive;
+    text-align: justify;
+    text-decoration: none;
+    line-height: 25px;
+    font-size: 25px;
+    font-style: oblique;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    height: 100%;
+    
+}
+    .youtubevideo2{
+        margin-top: 0%;
+        height: 200%;
+        width: 100%;
+      
+    }
+    .paragraf1{
+        margin-top: 0%;
+        width: 100%;
+        
+    }
+    .youtubevideo1{
+        margin-top: 0%;
+        height: 200%;
+        width: 100%;
+       
+    }
+  
+}
+@media screen and (min-width: 977px) and (max-width: 1600px)  {
+    .midvidpic{
+      margin-bottom: 0;
+      margin-top: -23%;
+    }
+}
